@@ -1,0 +1,5 @@
+icannotgo_common:
+    resource: "@IcannotgoCommonBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

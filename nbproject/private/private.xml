@@ -2,6 +2,17 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/workspace/IcannotGo/src/Icannotgo/CommonBundle/IcannotgoCommonBundle.php</file>
+            <file>file:/D:/workspace/IcannotGo/src/Acme/DemoBundle/Entity/Stage.php</file>
+            <file>file:/D:/workspace/IcannotGo/src/Acme/DemoBundle/Entity/Advert.php</file>
+            <file>file:/D:/workspace/IcannotGo/app/config/config_dev.yml</file>
+            <file>file:/D:/workspace/IcannotGo/src/Icannotgo/CommonBundle/DataFixtures/ORM/LoadStagedata.php</file>
+            <file>file:/D:/workspace/IcannotGo/src/Icannotgo/CommonBundle/DataFixtures/ORM/LoadConcertData.php</file>
+            <file>file:/D:/workspace/IcannotGo/src/Acme/DemoBundle/Entity/Concert.php</file>
+            <file>file:/D:/workspace/IcannotGo/app/config/parameters.yml</file>
+            <file>file:/D:/workspace/IcannotGo/src/Icannotgo/CommonBundle/Entity/Stage.php</file>
+            <file>file:/D:/workspace/IcannotGo/src/Acme/DemoBundle/Entity/User.php</file>
+        </group>
     </open-files>
 </project-private>
